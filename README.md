@@ -112,9 +112,7 @@ const API_KEY = 'ENTER YOUR API';
 <!-- LICENSE -->
 # Licença
 
-All code from this project is licensed under a MIT License.
-If a picture is originally taken or made by [Altyra Solutions](https://altyra.com/desenvolvimento-de-software/), then it is copyrighted. Otherwise, it keeps the original license.
-Everything else is copyrighted with © all rights reserved.
+Check the license right [here!](https://github.com/andrenevesgomes/Cube-Dash/blob/master/LICENSE.md)
 
 
 
