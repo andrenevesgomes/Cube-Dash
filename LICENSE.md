@@ -1,8 +1,8 @@
 All Rights Reserved
 
-Copyright (c) 2020 Altyra Solutions
+Copyright (c) 2021 André Gomes
 
-Created by Altyra Solutions
+Created by André Gomes
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
