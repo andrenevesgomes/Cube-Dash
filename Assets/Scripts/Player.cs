@@ -21,12 +21,12 @@ public class Player : MonoBehaviour
 
         if (Input.GetKey("d"))
         { //faz com que o "Player" se desloque para a direita
-            rigidBody.AddForce(movimentoHorizontal * Time.deltaTime, 0, 0);
+            rigidBody.AddForce(movimentoHorizontal * Time.deltaTime, 0, 0, ForceMode.VelocityChange); //sem o force mode o player tem que ganhar 'balanço' e torna-se muito lento.
         }
 
         if (Input.GetKey("a"))
         { //faz com que o "Player" se desloque para a esquerda
-            rigidBody.AddForce(-movimentoHorizontal * Time.deltaTime, 0, 0);
+            rigidBody.AddForce(-movimentoHorizontal * Time.deltaTime, 0, 0, ForceMode.VelocityChange); //sem o force mode o player tem que ganhar 'balanço' e torna-se muito lento.
         }
     }
 }
