@@ -28,5 +28,12 @@ public class Player : MonoBehaviour
         { //faz com que o "Player" se desloque para a esquerda
             rigidBody.AddForce(-movimentoHorizontal * Time.deltaTime, 0, 0, ForceMode.VelocityChange); //sem o force mode o player tem que ganhar 'balanço' e torna-se muito lento.
         }
+
+        /** SERVIA PARA DAR RESTART NO JOGO CASO O USER CAISSE PARA ALEM DE -10, 
+        * MAS COMO TEM AS BARREIRAS NÃO É PRECISO
+        */
+        // if(rigidBody.position.y < -10f){ 
+        //     FindObjectOfType<GameManager>().GameOver();
+        // }
     }
 }
