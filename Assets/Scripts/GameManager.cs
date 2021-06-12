@@ -2,10 +2,19 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class GameManager : MonoBehaviour
 {
-    bool gameIsOver = false;
-    public float delayRestart = 1f;
+    bool gameIsOver = false; //variavel para verificar se o jogo terminou
+    public float delayRestart = 1f; //variável para nao terminar fechar imediatamente a cena. Fica com um atraso de 1seg.
+
+    public GameObject nivelCompleto;
+
+    public void NivelCompleto()
+    {
+        nivelCompleto.SetActive(true);
+    }
+
     public void GameOver()
     {
         if (gameIsOver == false)
