@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="http://bit.ly/GitHub-Andre" target=“_blank”>
-    <img src="https://user-images.githubusercontent.com/48434290/117081669-4017af80-ad38-11eb-9af0-78d4a9dcc12c.png" width="550px" alt="Logo Photo Bomb">
+    <img src="https://user-images.githubusercontent.com/48434290/121789356-356cf780-cbcd-11eb-89f4-ae61780c29b8.png" width="550px" alt="Logo Photo Bomb">
   </a>
 
   <h3 align="center">Cube Dash!</h3>
