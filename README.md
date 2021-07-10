@@ -10,8 +10,8 @@
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 <p align="center">
 <a href="http://bit.ly/LinkedIn-Andre"><img src="https://img.shields.io/badge/LinkedIn-a31a2c?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>ㅤ
-<a href="#"><img src="https://img.shields.io/badge/Unity-a31a2c?style=for-the-badge&logo=unity&logoColor=white" height=25></a>ㅤ
-<a href="#"><img src="https://img.shields.io/badge/PayPal-a31a2c?style=for-the-badge&logo=paypal&logoColor=white" height=25></a>ㅤ
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-a31a2c?style=for-the-badge&logo=unity&logoColor=white" height=25></a>ㅤ
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7H44KRAPSWHLL"><img src="https://img.shields.io/badge/PayPal-a31a2c?style=for-the-badge&logo=paypal&logoColor=white" height=25></a>ㅤ
 <a href="https://github.com/andrenevesgomes"><img src="https://img.shields.io/badge/BY_André_Gomes-a31a2c?style=for-the-badge" height=25></a> 
 </p>
 
