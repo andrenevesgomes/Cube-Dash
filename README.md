@@ -8,15 +8,18 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
-<a href="http://bit.ly/LinkedIn-Andre"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-
-
+<p align="center">
+<a href="http://bit.ly/LinkedIn-Andre"><img src="https://img.shields.io/badge/LinkedIn-a31a2c?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>ㅤ
+<a href="#"><img src="https://img.shields.io/badge/Unity-a31a2c?style=for-the-badge&logo=unity&logoColor=white" height=25></a>ㅤ
+<a href="#"><img src="https://img.shields.io/badge/PayPal-a31a2c?style=for-the-badge&logo=paypal&logoColor=white" height=25></a>ㅤ
+<a href="https://github.com/andrenevesgomes"><img src="https://img.shields.io/badge/BY_André_Gomes-a31a2c?style=for-the-badge" height=25></a> 
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="http://bit.ly/GitHub-Andre" target=“_blank”>
-    <img src="https://user-images.githubusercontent.com/48434290/121789356-356cf780-cbcd-11eb-89f4-ae61780c29b8.png" width="550px" alt="Logo Photo Bomb">
+    <img src="https://user-images.githubusercontent.com/48434290/125177902-9214ff80-e1d7-11eb-8c5a-977fcbb3c929.png" width="300px" alt="Logo Photo Bomb">
   </a>
 
   <h3 align="center">Cube Dash!</h3>
@@ -54,7 +57,7 @@
 <!-- SOBRE O PROJETO -->
 # Sobre o Projeto
 
-![Menu](https://user-images.githubusercontent.com/48434290/117454928-8d656e00-af3e-11eb-9396-2a7a0392e4a4.png)
+![Menu](https://user-images.githubusercontent.com/48434290/125177991-5d557800-e1d8-11eb-8916-609a919e1147.png)
 
 O Cube Dash......
 
