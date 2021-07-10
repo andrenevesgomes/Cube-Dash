@@ -19,12 +19,12 @@ public class Player : MonoBehaviour
     {
         rigidBody.AddForce(0, 0, forca * Time.deltaTime); //adicionar uma força (eixo Z) para o cubo andar para a frente. A multiplicação referente ao "Time.deltaTime" serve com que a velocidade seja sempre a mesma, independentemente se o computador estiver sobrecarregado com programas abertos, por exemplo.
 
-        if (Input.GetKey("d"))
+        if (Input.GetKey("d") || Input.GetKey(KeyCode.RightArrow))
         { //faz com que o "Player" se desloque para a direita
             rigidBody.AddForce(movimentoHorizontal * Time.deltaTime, 0, 0, ForceMode.VelocityChange); //sem o force mode o player tem que ganhar 'balanço' e torna-se muito lento.
         }
 
-        if (Input.GetKey("a"))
+        if (Input.GetKey("a") || Input.GetKey(KeyCode.LeftArrow))
         { //faz com que o "Player" se desloque para a esquerda
             rigidBody.AddForce(-movimentoHorizontal * Time.deltaTime, 0, 0, ForceMode.VelocityChange); //sem o force mode o player tem que ganhar 'balanço' e torna-se muito lento.
         }
@@ -32,8 +32,9 @@ public class Player : MonoBehaviour
         /** SERVIA PARA DAR RESTART NO JOGO CASO O USER CAISSE PARA ALEM DE -10, 
         * MAS COMO TEM AS BARREIRAS NÃO É PRECISO
         */
-        // if(rigidBody.position.y < -10f){ 
-        //     FindObjectOfType<GameManager>().GameOver();
-        // }
+        if (rigidBody.position.y < -10f)
+        {
+            FindObjectOfType<GameManager>().GameOver();
+        }
     }
 }
