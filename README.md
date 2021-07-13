@@ -59,7 +59,7 @@
 
 ![Menu](https://user-images.githubusercontent.com/48434290/125177991-5d557800-e1d8-11eb-8916-609a919e1147.png)
 
-O Cube Dash......
+O Cube Dash é um jogo onde o objetivo é esquivar-nos dos obstáculos e chegar o mais longe possível.
 
 
 ## Desafio
